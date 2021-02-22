@@ -1,0 +1,7 @@
+data/com.virgee.klcc.desktop.in
+data/com.virgee.klcc.appdata.xml.in
+data/com.virgee.klcc.gschema.xml
+src/window.ui
+src/main.vala
+src/window.vala
+
